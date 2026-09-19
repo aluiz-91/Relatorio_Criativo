@@ -1,7 +1,7 @@
 # 📊 Desafio de Projeto: Relatório de Vendas no Power BI - DIO
 
 <p align="center">
-  <img src="print-do-seu-relatorio.png" alt="Preview do Dashboard" width="100%">
+  <img src="Relatoriocriativo.png" alt="Preview do Dashboard" width="100%">
 </p>
 
 ## 🎯 Sobre o Projeto
